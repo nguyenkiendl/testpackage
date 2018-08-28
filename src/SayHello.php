@@ -1,6 +1,6 @@
 <?php 
 
-namespace km\SayHello;
+namespace nguyenkiendl\SayHello;
 /**
  * 
  */

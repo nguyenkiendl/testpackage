@@ -1,5 +1,5 @@
 {
-	"name": "km/hello-world",
+	"name": "nguyenkiendl/hello-world",
 	"description": "the first composer parkage",
 	"type": "php",
 	"license": "aaa",
@@ -15,7 +15,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"km\\SayHello\\": "src/"
+			"nguyenkiendl\\SayHello\\": "src/"
 		}
 	}
 }
