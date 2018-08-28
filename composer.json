@@ -2,14 +2,14 @@
 	"name": "nguyenkiendl/hello-world",
 	"description": "the first composer parkage",
 	"type": "php",
-	"license": "aaa",
+	"license": "MIT",
 	"authors": [
 		{
-			"name": "nguyenkiendl",
+			"name": "nguyenkiendl92",
 			"email": "kienmap192@gmail.com"
 		}
 	],
-	"minimum-stability": "master",
+	"minimum-stability": "dev",
 	"require": {
 		"php": ">=5.3.0"
 	},
